@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b589382462000704082b4a294ae203e3, type: 3}
+  m_Name: SugarBomb Buff Particle Scriptable Object
+  m_EditorClassIdentifier: 
+  type: 2041
+  particle: {fileID: 6458933210648936380, guid: 07244b9297bc10b4a9b01e60b2dd2964,
+    type: 3}

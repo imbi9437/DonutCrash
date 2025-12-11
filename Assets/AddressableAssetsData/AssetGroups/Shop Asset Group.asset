@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shop Asset Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Shop Asset Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9ccf909cdf723764da77ef6ab3792c77
+  m_SerializeEntries:
+  - m_GUID: 13cd98e5a6e88ed4e858d9f298d854ae
+    m_Address: Sprite/trayplus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 239202e35367adb4dbe561a5c921dee6
+    m_Address: Sprite/Diamond100
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 266c07fde09e744a698a2882e391dfcf
+    m_Address: Sprite/Gold10000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fc8156c8535ddb47811199b687afc17
+    m_Address: Sprite/Diamondpackage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45a782db2434a2145bb10820e4f34d66
+    m_Address: Sprite/Diamond1000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48f14808eec9b5247894a08c332f61cb
+    m_Address: Sprite/Diamond200
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c5b007f70cf34a3f8f4affa7808508e
+    m_Address: Sprite/Gold50000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fe3667c175fa44c7bfcd2a01b344746
+    m_Address: Sprite/Gold100000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9921732cf5c5da24fb939e9f787a0757
+    m_Address: Sprite/ingredientSet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9168aa3eb0ef448498944526901d35c
+    m_Address: Sprite/Gold30000
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7b005db9eb4f2944a9f762c7c33e5a1
+    m_Address: Sprite/Goldpackage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcfc14f0b48b2554ab676ac2d9485fef
+    m_Address: Sprite/Diamond50
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffbefa2dd89cbad4db74f84286e85fe3
+    m_Address: Sprite/Diamond500
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Merchandise
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 96cec0c63eafc024c94ab98ad1e5251b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c26bac2b8b5d89f4fb9adafb7c0d4e44, type: 2}
+    - {fileID: 11400000, guid: 3631d1d1d4c37a6439b817a68e8d0d72, type: 2}

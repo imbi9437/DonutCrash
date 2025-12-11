@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Project/Materials/New Material.mat.meta
+guid: 84c8cc644ea624cf4b944ceabc1805bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: 96169b5c9257a1f4890d4c8fbf65a106
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+>>>>>>>> origin/Feature/Buff&DeBuffSystem:Assets/_Project/Scripts/SkillSystem/Skills.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

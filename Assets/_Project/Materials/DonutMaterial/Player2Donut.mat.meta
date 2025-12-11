@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Project/Materials/MyDonut.mat.meta
+guid: 15f0a1eae352b4a5bbfd8a4ed62776f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: bf7f63d9de8f32943b7f6a0485bc47e4
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+>>>>>>>> origin/Feature/Buff&DeBuffSystem:Assets/_Project/Scripts/BuffSystem/Buffs.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

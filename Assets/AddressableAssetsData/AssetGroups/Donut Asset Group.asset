@@ -1,0 +1,319 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Donut Asset Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Donut Asset Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 419740903730b8041b841fd9d3dacc0a
+  m_SerializeEntries:
+  - m_GUID: 05d3c2ee6024df045af1105fa33b3dee
+    m_Address: Sprite/10000012
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a8b819fb534463499b8bcd65baf97e4
+    m_Address: Sprite/10000005
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 172708cff72748d419a2f5f43a4c16b2
+    m_Address: Sprite/10000006
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1867021e85ff5694b9f5ae8750389463
+    m_Address: GameObject/10000013
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2543e9c4ff5c14c4f8b66c63f2b52e6d
+    m_Address: GameObject/10000021
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b844fca175ee6349b6f6cd7874524e5
+    m_Address: Sprite/10000020
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b993a177d45f8b49b1410e71e7c3f37
+    m_Address: Sprite/10000010
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b3cfdaeb29a664d8eced23addcb741
+    m_Address: GameObject/10000009
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 337bfe5581d04c24496459f9a0dd39cf
+    m_Address: GameObject/10000012
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39ee129493a16fd4b9911906bbb7d83b
+    m_Address: Sprite/10000003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c4d820c6a4d842459ff73be4445b069
+    m_Address: Sprite/10000016
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ee48126546e8a54f8dd69d89c7cea2b
+    m_Address: GameObject/10000016
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44d1157d06b933a44b835213deca7a87
+    m_Address: Sprite/10000001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4837bdb73a054ae4dbecd95ac5cabca2
+    m_Address: Sprite/10000013
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 494af08e48e32d74e8be31d06f33154d
+    m_Address: GameObject/10000003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59fded02da568294cb2623feedea887d
+    m_Address: GameObject/10000014
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70808292ac32a274fa071edf31122ed4
+    m_Address: GameObject/10000015
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70889e71e48d3a14bbfb353b1312c271
+    m_Address: Sprite/10000018
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75aaacd6408f6b34b8dbf87856266d30
+    m_Address: GameObject/10000019
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77ec414fdd7b68045aef31451a71031e
+    m_Address: GameObject/10000007
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a0b7326f41c7a043a78efdb4964f617
+    m_Address: GameObject/10000006
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bf61b58ccf32264caf7bc4599d9fe5c
+    m_Address: GameObject/10000010
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 828025d3dbf7c6847b6c4d36cb8dfeb8
+    m_Address: Sprite/10000019
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8639336253ba0054e87146654221c47a
+    m_Address: GameObject/10000020
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 872f700890665b24197c1ce5c5fcc4c3
+    m_Address: GameObject/10000018
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b382cdaad28ff44fb27e296ace055bb
+    m_Address: GameObject/10000001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f016aecf9e2d0f47b0c51a045095abb
+    m_Address: GameObject/10000004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cb0544b9ecbdcd4ba6f6b5414b29b0e
+    m_Address: Sprite/10000011
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cd72281b2114394594787e6b31c56b3
+    m_Address: Sprite/10000004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cee1e44dfeacc64caa81841577b8d06
+    m_Address: Sprite/10000015
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4dfb62a5fc0fb24e929b1760c445d37
+    m_Address: GameObject/10000005
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a73d0a8cb49a8194687f55f6f9e01ae1
+    m_Address: GameObject/10000002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a776711d88503c14d9ad0d1fc33daf23
+    m_Address: Sprite/10000002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab4cad6ff4021f24ca50083d853dbab2
+    m_Address: GameObject/10000011
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbab03cd78551084dbcd8bf052807aac
+    m_Address: GameObject/10000017
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1816123ca2497641931721e7889f568
+    m_Address: Sprite/10000017
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b36614536c2b44084100f6bb189907
+    m_Address: Sprite/10000021
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3b2994c10d267344934cfb20dfacd0b
+    m_Address: GameObject/10000008
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - GameObject
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d459d9decf85ed04aa90bdc0070bc605
+    m_Address: Sprite/10000009
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfdc4780142baec4395b5dbdd42909b7
+    m_Address: Sprite/10000014
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaa66286926a5ef47a34f24cc89fdd51
+    m_Address: Sprite/10000008
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc7504a36236b2d4cbf1bb406a0ac0ae
+    m_Address: Sprite/10000007
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Donut
+    - Icon
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 96cec0c63eafc024c94ab98ad1e5251b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dd822000da1893d4ea51b65ee3404372, type: 2}
+    - {fileID: 11400000, guid: 57a997918b1ae7e48852b1280ff81c60, type: 2}

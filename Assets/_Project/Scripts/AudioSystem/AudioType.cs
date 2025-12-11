@@ -1,0 +1,41 @@
+public enum AudioType
+{
+    BackgroundSample,
+    UISample,
+    EffectSample,
+    
+    BGM_01 = 10001,
+    BGM_02 = 10002,
+    BGM_03 = 10003,
+    BGM_04 = 10004,
+    BGM_05 = 10005,
+    BGM_06 = 10006,
+    
+    JNG_01 = 20001,
+    JNG_02 = 20002,
+    JNG_03 = 20003,
+    JNG_04 = 20004,
+    
+    SFX_UI_01 = 30001,
+    SFX_UI_02 = 30002,
+    SFX_UI_03 = 30003,
+    SFX_UI_04 = 30004,
+    SFX_UI_05 = 30005,
+    SFX_UI_06 = 30006,
+    SFX_UI_07 = 30007,
+    SFX_UI_08 = 30008,
+    SFX_UI_09 = 30009,
+    
+    SFX_Fight_01 = 40001,
+    SFX_Fight_02 = 40002,
+    SFX_Fight_03 = 40003,
+    SFX_Fight_04 = 40004,
+    SFX_Fight_05 = 40005,
+    SFX_Fight_06 = 40006,
+    SFX_Fight_07 = 40007,
+    SFX_Fight_08 = 40008,
+    SFX_Fight_09 = 40009,
+    SFX_Fight_10 = 40010,
+    SFX_Fight_11 = 40011,
+    SFX_Fight_12 = 40012,
+}

@@ -97,3 +97,12 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Premium Assets
+/[Aa]ssets/ExternalAssets*
+/[Aa]ssets/google-services.json*
+/ProjectSettings/GooglePlayGameSettings.txt*
+/[Aa]ssets/[Ss]cripts/UnityPurchasing*
+/[Aa]ssets/[Ss]treamingAssets/google-services*
+/[Aa]ssets/[Ff]irebase/[Pp]lugins/x86_64*
+/[Aa]ssets/Plugins/Android/FirebaseApp.androidlib/res/values*

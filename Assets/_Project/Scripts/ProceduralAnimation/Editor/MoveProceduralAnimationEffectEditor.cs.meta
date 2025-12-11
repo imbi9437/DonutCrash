@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Project/Scripts/Editor/MoveProceduralAnimationEffectEditor.cs.meta
+guid: 66f013fa4ef63184fafd676e36f908a3
+========
+guid: 68d1c2238c6cd4949b2d6ebd35af21ab
+>>>>>>>> feature-MainMenuUI/Setting:Assets/_Project/Scripts/UI/IMenuButton.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

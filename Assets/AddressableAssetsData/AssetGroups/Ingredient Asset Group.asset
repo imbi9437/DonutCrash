@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Ingredient Asset Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Ingredient Asset Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e37977efc35c0224886474d6893bdb68
+  m_SerializeEntries:
+  - m_GUID: 0e95b85cb728b5b4098015e980ec9777
+    m_Address: Sprite/10200002
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Ingredient
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 340e9bc9098adad45b97bb771bf24a8b
+    m_Address: Sprite/10200003
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Ingredient
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e596af58dc450a46babdbb3ab19c0d9
+    m_Address: Sprite/10200004
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Ingredient
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e06eeca27497b164d920f06c684a21ff
+    m_Address: Sprite/10200001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Icon
+    - Ingredient
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 96cec0c63eafc024c94ab98ad1e5251b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0338fa3a80725ea4683787375762ada0, type: 2}
+    - {fileID: 11400000, guid: 9f07f49744e644a46b6d306259b0e30f, type: 2}
