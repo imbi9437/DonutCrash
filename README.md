@@ -1,6 +1,8 @@
-# 🍩 팀 프로젝트 - 도넛클래시
+# 🍩 팀 프로젝트 - Donut Crash
 
-> **Donut Crash**  
+<div align="center">
+  <img width="1080" height="720" alt="Image" src="https://github.com/user-attachments/assets/1f44097e-3f95-4168-b4fa-39274aa47593" />
+</div>
 
 ---
 
@@ -50,12 +52,22 @@
 
 ---
 
-## 기술 스택
+## Thrid Party Library
 
-* C#
-* Unity
-* Firebase
-* Photon
-* Google Play Games
+
+
+<div align="center">
+  <img width="600" height="200" alt="Image" src="https://github.com/user-attachments/assets/962238c9-a2d8-4b1b-bf21-123bc94cfbe4" />
+  <br>
+</div>
+
+<div align="center">
+  <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/2673b41d-9ce4-499a-b7c6-02fcf11f4a45" />
+  <br><br>
+</div>
+
+<div align="center">
+  <img width="500" height="140" alt="Image" src="https://github.com/user-attachments/assets/82248976-8762-44f5-8377-a4191173fe54" />
+</div>
 
   
