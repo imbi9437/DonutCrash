@@ -23,6 +23,7 @@
 | **개발 엔진** | Unity 2022.3 LTS |
 | **개발 언어** | C# |
 | **타겟 플랫폼** | Android |
+| **테스트 환경** | Galaxy S20 Ultra 3200 x 1440p |
 
 ---
 
@@ -110,20 +111,10 @@
 
 ## Thrid Party Library
 
-
-
 <div align="center">
-  <img width="600" height="200" alt="Image" src="https://github.com/user-attachments/assets/962238c9-a2d8-4b1b-bf21-123bc94cfbe4" />
-  <br>
-</div>
-
-<div align="center">
-  <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/2673b41d-9ce4-499a-b7c6-02fcf11f4a45" />
-  <br><br>
-</div>
-
-<div align="center">
-  <img width="500" height="140" alt="Image" src="https://github.com/user-attachments/assets/82248976-8762-44f5-8377-a4191173fe54" />
+  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/141f7690-4888-4ccd-9dda-71cec21cddfe" />
+  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f8a9a5df-84f5-4e81-85c8-61b8b940bb2c" />
+  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/807238cf-4143-491a-8e29-e609498adbc7" />
 </div>
 
   
