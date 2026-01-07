@@ -59,17 +59,23 @@
 > #### 관련 폴더 링크
 > * [Battle FSM](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/InGame/StatePattern)
 
+<br>
+
 ### 실시간 멀티플레이
 * Photon Pun2를 활용한 실시간 멀티플레이
 * 두 플레이어가 하나의 맵에서 서로의 도넛을 공격
 > #### 관련 스크립트 링크
 > * [PhotonManager.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/PhotonManager.cs)
 
+<br>
+
 ### 리더보드
 * Firebase와 쿼리를 통한 리더보드
 > #### 관련 스크립트 링크
 > * [FirebaseRealtimeMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FirebaseRealtimeMethod.cs)
 > * [LeaderboardEntry.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/LeaderBoardEntry.cs)
+
+<br>
 
 ### 도넛 해금, 생성, 합성
 * 레시피를 획득해 다양한 종류의 도넛을 해금
@@ -78,12 +84,16 @@
 > #### 관련 폴더 링크
 > * [Donut](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/Donut)
 
+<br>
+
 ### 덱
 * 보유한 다양한 마녀와 도넛들로 덱을 구성해 게임에서 활용
 * 배치 순서, 마녀 및 도넛의 스킬을 전략적으로 고려해 덱을 구성
 > #### 관련 스크립트 링크
 > * [DeckData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/DeckData.cs)
 > * [DeckController.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/UI/DeckControll/DeckController.cs)
+
+<br>
 
 ### 상점
 * 재화를 통해 다양한 상품을 구매 및 재료 교환
