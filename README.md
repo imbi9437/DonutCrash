@@ -54,6 +54,8 @@
 > #### 관련 스크립트 링크
 > * [FireStoreMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FireStoreMethod.cs)
 
+<br>
+
 ### 알까기 배틀
 * 유한 상태 머신을 활용한 턴제 알까기 배틀
 > #### 관련 폴더 링크
