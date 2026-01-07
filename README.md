@@ -29,55 +29,72 @@
 ## 주요 기능
 
 ### 데이터 및 이벤트 기반 시스템
-* [EventHub.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/EventHub.cs)  [EventParam](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/EventStructs)
-* [DataManager.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/DataManager.cs)  [Data Getter & Setter](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/Manager/DataManagerPartial)
-* [Data](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/Data)
 * 원활한 협업과 비동기 및 타이밍 처리를 위한 이벤트 기반 시스템
-* 유연한 레벨디자인 및 밸런싱을 위한 데이터 기반 시스
+* 유연한 레벨디자인 및 밸런싱을 위한 데이터 기반 시스템
+> #### 관련 스크립트 및 폴더 링크
+> * [EventHub.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/EventHub.cs)
+> * [EventParam](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/EventStructs)
+> * [DataManager.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/DataManager.cs)
+> * [Data Getter & Setter](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/Manager/DataManagerPartial)
+> * [Data](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/Data)
+
+<br>
 
 ### 사용자 인증
-* [FirebaseAuthMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FirebaseAuthMethod.cs)
-* [PlayGamesManager.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/PlayGamesManager.cs)
 * Firebase와 Google Play Games를 통한 로그인
+* SDK 및 UniTask를 통한 비동기 구현
+> #### 관련 스크립트 링크
+> * [FirebaseAuthMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FirebaseAuthMethod.cs)
+> * [PlayGamesManager.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/PlayGamesManager.cs)
+
+<br>
 
 ### 테이블 및 사용자 정보
-* [FireStoreMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FireStoreMethod.cs)
 * Firestore를 활용한 게임 정적 데이터 및 사용자 데이터 관리
+> #### 관련 스크립트 링크
+> * [FireStoreMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FireStoreMethod.cs)
 
 ### 알까기 배틀
-* [Battle FSM](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/InGame/StatePattern)
 * 유한 상태 머신을 활용한 턴제 알까기 배틀
+> #### 관련 폴더 링크
+> * [Battle FSM](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/InGame/StatePattern)
 
 ### 실시간 멀티플레이
-* [PhotonManager.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/PhotonManager.cs)
 * Photon Pun2를 활용한 실시간 멀티플레이
 * 두 플레이어가 하나의 맵에서 서로의 도넛을 공격
+> #### 관련 스크립트 링크
+> * [PhotonManager.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/PhotonManager.cs)
 
 ### 리더보드
-* [FirebaseRealtimeMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FirebaseRealtimeMethod.cs)
-* [LeaderboardEntry.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/LeaderBoardEntry.cs)
 * Firebase와 쿼리를 통한 리더보드
+> #### 관련 스크립트 링크
+> * [FirebaseRealtimeMethod.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Manager/Firebase/FirebaseRealtimeMethod.cs)
+> * [LeaderboardEntry.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/LeaderBoardEntry.cs)
 
 ### 도넛 해금, 생성, 합성
-* [Donut](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/Donut)
 * 레시피를 획득해 다양한 종류의 도넛을 해금
 * 해금된 도넛을 오븐에서 생성하여 게임 플레이에 사용
 * 도넛을 합성하여 더욱 강한 도넛으로 강화
+> #### 관련 폴더 링크
+> * [Donut](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/Donut)
 
 ### 덱
-* [DeckData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/DeckData.cs)
-* [DeckController.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/UI/DeckControll/DeckController.cs)
 * 보유한 다양한 마녀와 도넛들로 덱을 구성해 게임에서 활용
 * 배치 순서, 마녀 및 도넛의 스킬을 전략적으로 고려해 덱을 구성
+> #### 관련 스크립트 링크
+> * [DeckData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/DeckData.cs)
+> * [DeckController.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/UI/DeckControll/DeckController.cs)
 
 ### 상점
-* [ShopController.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/OutGame/Shop/ShopController.cs)
-* [MerchandiseData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/MerchandiseData.cs)
-* [ProductData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/ProductData.cs)
 * 재화를 통해 다양한 상품을 구매 및 재료 교환
 * IAP를 통한 수익구조
+> #### 관련 스크립트 링크
+> * [ShopController.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/OutGame/Shop/ShopController.cs)
+> * [MerchandiseData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/MerchandiseData.cs)
+> * [ProductData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/ProductData.cs)
 
 ---
+<br>
 
 ## Thrid Party Library
 
