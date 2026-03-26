@@ -59,6 +59,7 @@
 
 ### 알까기 배틀
 * 유한 상태 머신을 활용한 턴제 알까기 배틀
+* 배틀 UI (선택 하이라이트, 인터랙션 피드백)
 > #### 관련 폴더 링크
 > * [Battle FSM](https://github.com/imbi9437/DonutCrash/tree/main/Assets/_Project/Scripts/InGame/StatePattern)
 
