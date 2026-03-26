@@ -90,7 +90,7 @@
 <br>
 
 ### 덱
-* 보유한 다양한 마녀와 도넛들로 덱을 구성해 게임에서 활용
+* 보유한 다양한 마녀와 도넛들로 덱을 구성해 게임에서 활용.
 * 배치 순서, 마녀 및 도넛의 스킬을 전략적으로 고려해 덱을 구성
 > #### 관련 스크립트 링크
 > * [DeckData.cs](https://github.com/imbi9437/DonutCrash/blob/main/Assets/_Project/Scripts/Data/DeckData.cs)
